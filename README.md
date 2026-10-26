@@ -1,4 +1,4 @@
-# Chatbot_Cinema (AI Service)
+# ChatbotCinema (AI Service)
 
 Dịch vụ AI Chatbot tư vấn phim, tra cứu suất chiếu, giá vé, rạp chiếu và hỗ trợ khách hàng đặt vé xem phim thông minh.
 
