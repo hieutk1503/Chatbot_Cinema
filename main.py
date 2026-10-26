@@ -38,7 +38,7 @@ if GEMINI_API_KEY:
 else:
     print("WARNING: GEMINI_API_KEY is not set in .env")
 
-# Khai bao cac cong cu (tools) cho Gemini
+# Khai bao cac cong cu cho Gemini
 def get_movies() -> str:
     """Lay danh sach cac phim hien dang chieu tai rap World Cinema."""
     movies = get_ten_phim()
